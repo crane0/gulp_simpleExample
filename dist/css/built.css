@@ -1,0 +1,16 @@
+#box1 {
+  width: 100px;
+  height: 200px;
+  background: blue;
+}
+#box2 {
+  width: 200px;
+  height: 500px;
+  background: red;
+}
+.index1 {
+  color: yellow;
+}
+.index2 {
+  color: green;
+}

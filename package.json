@@ -1,0 +1,21 @@
+{
+  "name": "gulp_test",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gulp",
+    "watch": "gulp watch",
+    "live": "gulp livereload"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-less": "^4.0.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "open": "^0.0.5"
+  }
+}
